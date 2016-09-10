@@ -44,4 +44,4 @@ dfstree = dicTree(dfslist)
 print dfstree
 imagepath = popImagePath(dfslist, dfstree)
 print imagepath
-print max(len(item) for item in imagepath)
+#print max(len(item) for item in imagepath)
